@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Red Hat | Public Sector</title>
+    <link>http://redhatgov.io/events/</link>
+    <description>Recent content in Events on Red Hat | Public Sector</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://redhatgov.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansible Automates - Boston</title>
+      <link>http://redhatgov.io/events/20191028-ansible-automates-boston-1c56c42a58cd3124daed61e757152fb5/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20191028-ansible-automates-boston-1c56c42a58cd3124daed61e757152fb5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Better Together: Ansible &amp; OpenShift - Chicago</title>
+      <link>http://redhatgov.io/events/20191023-better-together-ansible-openshift-chicago-3df1e17e8e303e78c6ba331a3be782a6/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20191023-better-together-ansible-openshift-chicago-3df1e17e8e303e78c6ba331a3be782a6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS, Red Hat IDC Briefing</title>
+      <link>http://redhatgov.io/events/20191022-aws-red-hat-idc-briefing-2b08a1fae290f4be19669dec020bfbe7/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20191022-aws-red-hat-idc-briefing-2b08a1fae290f4be19669dec020bfbe7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Better Together: Ansible &amp; OpenShift - Dallas</title>
+      <link>http://redhatgov.io/events/20191009-better-together-ansible-openshift-dallas-6acf4c5c768117ba35e6ec4cae85cb20/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20191009-better-together-ansible-openshift-dallas-6acf4c5c768117ba35e6ec4cae85cb20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chattanooga Scenic City Summit</title>
+      <link>http://redhatgov.io/events/20191003-chattanooga-scenic-city-summit-b9083fae691fe53195d02cb9c36c65ae/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20191003-chattanooga-scenic-city-summit-b9083fae691fe53195d02cb9c36c65ae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Hat Training Introductory Workshop</title>
+      <link>http://redhatgov.io/events/20191003-red-hat-training-introductory-workshop-2f63b770e21ee4dbd482843669abe7d5/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20191003-red-hat-training-introductory-workshop-2f63b770e21ee4dbd482843669abe7d5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenShift Workshop - Harris</title>
+      <link>http://redhatgov.io/events/20191001-openshift-workshop-harris-5358a1541d4d81cad45c26f132150426/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20191001-openshift-workshop-harris-5358a1541d4d81cad45c26f132150426/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Symposium - Dulles</title>
+      <link>http://redhatgov.io/events/20191001-security-symposium-dulles-1ced385bfca6554d3104e361d6c408b1/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20191001-security-symposium-dulles-1ced385bfca6554d3104e361d6c408b1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Hat OpenShift Workshop w/ Emergent</title>
+      <link>http://redhatgov.io/events/20190926-red-hat-openshift-workshop-w-emergent-59e339ab451318965eccfcfdf3501ca4/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20190926-red-hat-openshift-workshop-w-emergent-59e339ab451318965eccfcfdf3501ca4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible-Fest Government Luncheon</title>
+      <link>http://redhatgov.io/events/20190925-ansible-fest-government-luncheon-438cd6813c145b46c5f7ff393207f8e5/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20190925-ansible-fest-government-luncheon-438cd6813c145b46c5f7ff393207f8e5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Hat OpenShift Workshop w/ Emergent</title>
+      <link>http://redhatgov.io/events/20190925-red-hat-openshift-workshop-w-emergent-2e858e62e9b10a8a861011172e45258e/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20190925-red-hat-openshift-workshop-w-emergent-2e858e62e9b10a8a861011172e45258e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AnsibleFest - Atlanta</title>
+      <link>http://redhatgov.io/events/20190924-ansiblefest-atlanta-d611dd4098237a04cf128276aba6535c/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20190924-ansiblefest-atlanta-d611dd4098237a04cf128276aba6535c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Hat OpenShift Workshop w/ Emergent</title>
+      <link>http://redhatgov.io/events/20190924-red-hat-openshift-workshop-w-emergent-6f30167a1245ffdafb60aa35332f4c5e/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20190924-red-hat-openshift-workshop-w-emergent-6f30167a1245ffdafb60aa35332f4c5e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Workshop - Colorado Community College System</title>
+      <link>http://redhatgov.io/events/20190919-ansible-workshop-colorado-community-college-system-704ba5aad70fe8a4bdbe7d0270898b76/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20190919-ansible-workshop-colorado-community-college-system-704ba5aad70fe8a4bdbe7d0270898b76/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MPC @ Perspecta - Herndon</title>
+      <link>http://redhatgov.io/events/20190919-mpc-perspecta-herndon-32724daa7f5222ac075c22bc3fc28923/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20190919-mpc-perspecta-herndon-32724daa7f5222ac075c22bc3fc28923/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State of North Carolina Community Powered Innovation Event</title>
+      <link>http://redhatgov.io/events/20190919-state-of-north-carolina-community-powered-innovation-event-cd6402cd3013f71fad050fe22c2a82ee/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20190919-state-of-north-carolina-community-powered-innovation-event-cd6402cd3013f71fad050fe22c2a82ee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshop - State of Michigan</title>
+      <link>http://redhatgov.io/events/20190918-ansible-automation-technical-workshop-state-of-michigan-61f2e06bfe9a6a822f59dc3d629d5384/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20190918-ansible-automation-technical-workshop-state-of-michigan-61f2e06bfe9a6a822f59dc3d629d5384/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible for DevOps Workshop - Tysons</title>
+      <link>http://redhatgov.io/events/20190918-ansible-for-devops-workshop-tysons-b57e506e436a7cb17d1e1fb2f72d2349/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20190918-ansible-for-devops-workshop-tysons-b57e506e436a7cb17d1e1fb2f72d2349/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop - Plano</title>
+      <link>http://redhatgov.io/events/20190917-devsecops-workshop-plano-e63ccc9f19d9066ebb1b892e7386d11e/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20190917-devsecops-workshop-plano-e63ccc9f19d9066ebb1b892e7386d11e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workshop - Sacramento</title>
+      <link>http://redhatgov.io/events/20190917-devsecops-workshop-sacramento-af01da1ae320e2bdac09dd6e268a3fc7/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20190917-devsecops-workshop-sacramento-af01da1ae320e2bdac09dd6e268a3fc7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Day Marine w/ DLT</title>
+      <link>http://redhatgov.io/events/20190917-modern-day-marine-w-dlt-873a3a6044c303778e8eb590a4da4098/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20190917-modern-day-marine-w-dlt-873a3a6044c303778e8eb590a4da4098/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Automation Workshop - Michigan State University</title>
+      <link>http://redhatgov.io/events/20190917-network-automation-workshop-michigan-state-university-a2f1fdd262d88c9b0387f626313dc242/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20190917-network-automation-workshop-michigan-state-university-a2f1fdd262d88c9b0387f626313dc242/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
